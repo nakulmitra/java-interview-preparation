@@ -14,3 +14,8 @@ Prepare for Java developer interviews with these resources covering Core Java, S
 - Developers strengthening their Core Java and Java 8+ knowledge.
 - Backend engineers preparing for Spring Boot, Microservices, and System Design rounds.
 - Developers practicing coding problems and Stream API operations.
+
+## Support
+If this helped you, consider supporting my work
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/nakulmitra)
