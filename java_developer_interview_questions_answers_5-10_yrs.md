@@ -501,14 +501,3 @@ When inserting a key, `HashMap` checks the bucket and uses hash and equality com
 ### Q120. How do you balance clean architecture and delivery speed?
 
 **Answer:** Optimize for the expected lifetime and rate of change of the system, not theoretical purity. Keep boundaries clear where they reduce real coupling, but avoid layers and abstractions that add no value. Make reversible decisions quickly, test risky changes, and invest in architecture where the cost of future change or failure justifies it.
-
-## Suggested Study Approach
-
-1. Start with Core Java and JVM fundamentals.
-2. Move to SQL, transactions, indexing, and database troubleshooting.
-3. Study Spring internals and production behavior.
-4. Learn distributed systems failure modes and microservice patterns.
-5. Practice system design using explicit requirements and trade-offs.
-6. Finish with testing, code quality, releases, observability, and incident response.
-
-For each question, practice answering aloud in two minutes, then expand with a concrete example, a trade-off, and a follow-up question. Use examples from your own experience and never claim production experience you do not have.
